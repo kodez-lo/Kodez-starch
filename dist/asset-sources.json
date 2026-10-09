@@ -1,0 +1,331 @@
+{
+  "note": "Internet images used as demo placeholders. Product photos belong to their respective source websites; replace or obtain permission for commercial use.",
+  "assets": [
+    {
+      "filename": "diya-painted.webp",
+      "url": "https://i1.fnp.com/images/pr/l/v20211029182947/set-of-4-traditional-terracotta-diyas_1.jpg",
+      "description": "diya painted",
+      "dimensions": [
+        642,
+        642
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "diya-antique.webp",
+      "url": "https://www.zwende.com/cdn/shop/files/THE-HANDICRAFTIAN-DIYA-5.jpg?v=1759924435&width=1080",
+      "description": "diya antique",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "diya-metallic.webp",
+      "url": "https://cdn.igp.com/f_auto%2Cq_auto%2Ct_prodl/products/p-big-size-metallic-clay-designer-diya-120701-m.jpg",
+      "description": "diya metallic",
+      "dimensions": [
+        600,
+        600
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "diya-colorful.webp",
+      "url": "https://cycle.in/cdn/shop/files/Terracotta-Diya-04-min-800x800.webp?v=1708680704",
+      "description": "diya colorful",
+      "dimensions": [
+        800,
+        800
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "diya-elephant.webp",
+      "url": "https://ii1.pepperfry.com/media/catalog/product/t/h/1600x1760/the-handicraftian-large-elephant-diya-set-of-2-the-handicraftian-large-elephant-diya-set-of-2-uvrali.jpg",
+      "description": "diya elephant",
+      "dimensions": [
+        909,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "diya-heart.webp",
+      "url": "https://ourbetterplanet.com/cdn/shop/files/DYA-HRT-12b.jpg?v=1756965990&width=1200",
+      "description": "diya heart",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "diya-lotus.webp",
+      "url": "https://ashlos.com/cdn/shop/files/51hRAtUdMpL._SL1078__1692173584210.jpg?v=1692959663&width=1445",
+      "description": "diya lotus",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "fireworks-combo.webp",
+      "url": "https://srilaxmiscrackers.com/assets/images/8.png",
+      "description": "fireworks combo",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "fireworks-fountain.webp",
+      "url": "https://auraapyrotech.com/media/categories/special_flower_pots_branded.png",
+      "description": "fireworks fountain",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "fireworks-selection.webp",
+      "url": "https://www.pyrotexfireworks.co.uk/cdn/shop/products/DiwaliSelectionBox_2000x.png?v=1611134710",
+      "description": "fireworks selection",
+      "dimensions": [
+        1000,
+        778
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "fireworks-glow.webp",
+      "url": "https://s1.tntfireworks.com/d/products/3813/4dbbc2e5e90b75ba3cd8a6624efdb471-large.png",
+      "description": "fireworks glow",
+      "dimensions": [
+        600,
+        600
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "fireworks-chakkar.webp",
+      "url": "https://www.pikpng.com/pngl/b/232-2328824_deluxe-ground-chakkar-krishna-smile-clipart.png",
+      "description": "fireworks chakkar",
+      "dimensions": [
+        1000,
+        890
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "fireworks-flowerpot.webp",
+      "url": "https://www.pattasubazaar.in/images/flower_pot_fountain.png",
+      "description": "fireworks flowerpot",
+      "dimensions": [
+        640,
+        640
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "lights-paper.webp",
+      "url": "https://in.skygoodies.co/cdn/shop/files/Sky-Goodies-Mini-Lantern-Fairy-Lights-Paper-Lamp-03.jpg?v=1758263582&width=1024",
+      "description": "lights paper",
+      "dimensions": [
+        1000,
+        693
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "lights-lantern.webp",
+      "url": "https://www.coraltree.in/cdn/shop/files/3_83bd1818-d52f-4377-8913-a41a1a931079.jpg?v=1698315640&width=900",
+      "description": "lights lantern",
+      "dimensions": [
+        900,
+        900
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "lights-vintage.webp",
+      "url": "https://cdn.vaaree.com/catalog/assets/ast_d4d90e62bab3001b67357cdc80244d2b/original/table-lamp-iron-lady-lantern-set-of-two-1.jpg",
+      "description": "lights vintage",
+      "dimensions": [
+        800,
+        800
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "decor-toran.webp",
+      "url": "https://swadesi.co.uk/cdn/shop/files/81NRNUccAbL._UF894_1000_QL80_FMwebp.webp?v=1760783243",
+      "description": "decor toran",
+      "dimensions": [
+        894,
+        894
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "decor-lotus.webp",
+      "url": "https://nestasia.in/cdn/shop/files/Decorative-Lotus-Wall-Hanging-Toran-For-Diwali_1.jpg?v=1755163066&width=1200",
+      "description": "decor lotus",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "decor-pompom.webp",
+      "url": "https://images.timesnowhindi.com/photo/msid-114555685/114555685.jpg?thumbsize=107074",
+      "description": "decor pompom",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "rangoli-kit.webp",
+      "url": "https://m.media-amazon.com/images/I/71qz9eFcSFL._AC_UF894%2C1000_QL80_.jpg",
+      "description": "rangoli kit",
+      "dimensions": [
+        894,
+        890
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "rangoli-colors.webp",
+      "url": "https://www.satvikstore.in/cdn/shop/products/1_7167ac39-9263-4cd3-97d0-35ac635bf60b.jpg?v=1678873522",
+      "description": "rangoli colors",
+      "dimensions": [
+        1000,
+        922
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "puja-thali.webp",
+      "url": "https://nobilityshoppe.in/cdn/shop/files/01copy_b3e8fe8a-6704-45cf-856f-145f0743f9fb_800x.jpg?v=1722606666",
+      "description": "puja thali",
+      "dimensions": [
+        800,
+        768
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "puja-brass.webp",
+      "url": "https://swastikkripa.com/cdn/shop/files/SwastikSadhana.jpg?v=1774333339&width=1500",
+      "description": "puja brass",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "puja-gold.webp",
+      "url": "https://images-static.nykaa.com/media/catalog/product/e/6/e631e94GSTHALI503_6.jpg",
+      "description": "puja gold",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "gift-dryfruit.webp",
+      "url": "https://www.thegreenfuels.com/cdn/shop/products/harvest-medley-dry-fruit-nuts-treasure-7847881.jpg?v=1773503527",
+      "description": "gift dryfruit",
+      "dimensions": [
+        800,
+        800
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "gift-round.webp",
+      "url": "https://bikanervala.com/cdn/shop/files/Shubh_Sparsh_Dry_Fruit_Hamper.jpg?v=1764844047",
+      "description": "gift round",
+      "dimensions": [
+        400,
+        400
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "gift-basket.webp",
+      "url": "https://static-assets-prod.fnp.com/images/pr/l/v20181023192427/dry-fruits-idols-chocolates-basket-hamper_1.jpg",
+      "description": "gift basket",
+      "dimensions": [
+        656,
+        656
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "gift-blue.webp",
+      "url": "https://sugarfreebakery.in/media/wysiwyg/diwali.jpg",
+      "description": "gift blue",
+      "dimensions": [
+        800,
+        800
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "gift-divine.webp",
+      "url": "https://assets.winni.in/product/primary/2023/10/90638.jpeg?dpr=1&w=1000",
+      "description": "gift divine",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "puja-bell.webp",
+      "url": "https://www.pilgrimaide.com/image/cache/catalog/01%20Dec%202022%20onwards/BRASS%20POOJA%20ITEMS/brass/brass%20sadi%20ghanti-1000x1000h.png",
+      "description": "puja bell",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "fireworks-sparklers.webp",
+      "url": "https://madhucrackers.com/storage/KCPd4AL5AvvpyoaNi0wY1MYBMPP498-metaYmlqXzAxMXEuanBn-.jpg",
+      "description": "fireworks sparklers",
+      "dimensions": [
+        800,
+        800
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "lights-stars.webp",
+      "url": "https://chronoslights.com/cdn/shop/files/led-fairy-star-curtain-light-warm-white-water-resistant_jpg.png?crop=center&height=1200&v=1734003219&width=1200",
+      "description": "lights stars",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "status": "ok"
+    },
+    {
+      "filename": "hero.jpg",
+      "url": "https://thedivinetales.com/cdn/shop/files/4_13c2a7d0-d4b7-4ddd-98a1-dee43889a52b.jpg?v=1759484673&width=1200",
+      "description": "Brass diya hero photograph",
+      "status": "ok"
+    }
+  ]
+}
